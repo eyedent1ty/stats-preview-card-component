@@ -13,5 +13,5 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/eyedent1ty/profile-card-component)
-- Live Site URL: [See Live](https://eyedent1ty-profile-card-component.netlify.app/)
+- Solution URL: [Repository](https://github.com/eyedent1ty/stats-preview-card-component)
+- Live Site URL: [See Live](https://eyedent1ty-stats-preview-card-component.netlify.app)
